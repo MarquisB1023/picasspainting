@@ -1,0 +1,129 @@
+
+
+.nav-bar{
+    display: flex;
+    flex-direction: row;
+    height: 90px;
+    box-shadow: 0 10px 10px 0 #b1b1b1;
+    max-width: 20000px;
+    padding: 0 0 0 0;
+    
+}
+
+h1{
+    width: 300px;
+    height:10px;
+    font-size: 30px;
+
+}
+.navi{
+    display:inline-block;
+    display: flex;
+    flex-direction: row;
+
+  width: 30px;
+  height: 70px;
+  padding:10px 0 0 100px;
+}
+
+.logocontainer{
+    display: block;
+    height: 100px;
+    width: 200px;
+    padding: 0 300px 20px 0;
+    margin: 0 20px;
+}
+
+.mainblock{
+   display: flex;
+   flex-direction: row;
+     row-gap: 10px;
+    justify-content:  left;
+   
+    width: 1000px;
+    height: 600px;
+    padding: 30px 40px 50px 30px;
+    margin:  20px 10px 20px 10px ; 
+    text-align: left;
+    font-size: 20px;
+     
+    
+}
+
+.img-card{
+    display:flex;
+    flex-direction: column;
+    margin: 20px 20px 20px;
+    padding: 10px 20px 10px 20px;
+   
+    
+}
+h2{
+   font-size: 25px;
+}
+
+p{
+    font-size: 15px;
+    text-align: left;
+    height: 19px;
+
+}
+.img{
+    width: 400px;
+    height: 400px;
+    display: grid;
+     grid-column: 3;
+     grid-column: row;
+}
+.bodyblocks{
+    display: grid;
+    
+    grid-column: row;
+    justify-content: center;
+  
+    width: 1000px;
+    height: 1000px;
+  
+    
+
+}
+
+.aboutimg{
+    height: 500px;
+    width: 700px;
+    margin: 10px;
+}
+.filloutblocks{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    
+    width:500px;
+    height: 100px;
+    box-shadow: 10px 10px 10px 10px #e4e4e4;
+    align-items: center;
+    margin-left: 30px;
+}
+
+.copies{
+    display: inline;
+}
+
+h3{
+    font-size: 18px;
+}
+
+.footer{
+    height: 20px;
+    width: 50px;
+    text-align: center; 
+    
+}
+
+.thankyousub{
+    padding: 20px 20px 20px 20px; 
+    width: 200px;
+    height:180px;
+    display: block;
+    display: grid;
+}
